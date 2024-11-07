@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\windowsformsapp_e_commerce_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|solutionrelative:windowsformsapp_e_commerce_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|c:\\users\\birgi\\source\\repos\\windowsformsapp_e_commerce_system\\windowsformsapp_e_commerce_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|solutionrelative:windowsformsapp_e_commerce_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|c:\\users\\birgi\\source\\repos\\windowsformsapp_e_commerce_system\\windowsformsapp_e_commerce_system\\packagedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|solutionrelative:windowsformsapp_e_commerce_system\\packagedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|c:\\users\\birgi\\source\\repos\\windowsformsapp_e_commerce_system\\windowsformsapp_e_commerce_system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|solutionrelative:windowsformsapp_e_commerce_system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|c:\\users\\birgi\\source\\repos\\windowsformsapp_e_commerce_system\\windowsformsapp_e_commerce_system\\administrative_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|solutionrelative:windowsformsapp_e_commerce_system\\administrative_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\windowsformsapp_e_commerce_system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|solutionrelative:windowsformsapp_e_commerce_system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|c:\\users\\birgi\\source\\repos\\windowsformsapp_e_commerce_system\\windowsformsapp_e_commerce_system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|solutionrelative:windowsformsapp_e_commerce_system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|c:\\users\\birgi\\source\\repos\\windowsformsapp_e_commerce_system\\windowsformsapp_e_commerce_system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|solutionrelative:windowsformsapp_e_commerce_system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|c:\\users\\birgi\\source\\repos\\windowsformsapp_e_commerce_system\\windowsformsapp_e_commerce_system\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|solutionrelative:windowsformsapp_e_commerce_system\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|c:\\users\\birgi\\source\\repos\\windowsformsapp_e_commerce_system\\windowsformsapp_e_commerce_system\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{769F81B5-9ACB-4775-AF53-5E9AF5B7E0E8}|WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System.csproj|solutionrelative:windowsformsapp_e_commerce_system\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PackagedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\PackagedProduct.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_E_Commerce_System\\PackagedProduct.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\PackagedProduct.cs",
+              "RelativeToolTip": "WindowsFormsApp_E_Commerce_System\\PackagedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:41:07.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Product.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_E_Commerce_System\\Product.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Product.cs",
+              "RelativeToolTip": "WindowsFormsApp_E_Commerce_System\\Product.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAD8vzMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:41:04.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administrative_Department.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Administrative_Department.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_E_Commerce_System\\Administrative_Department.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Administrative_Department.cs",
+              "RelativeToolTip": "WindowsFormsApp_E_Commerce_System\\Administrative_Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:47:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_E_Commerce_System\\Form1.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp_E_Commerce_System\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:47:17.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_E_Commerce_System\\Form1.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_E_Commerce_System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:41:44.973Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_E_Commerce_System\\Form2.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_E_Commerce_System\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:45:21.702Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_E_Commerce_System\\Form3.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_E_Commerce_System\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:50:14.678Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_E_Commerce_System\\Form4.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form4.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_E_Commerce_System\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:40:51.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form5.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_E_Commerce_System\\Form5.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form5.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_E_Commerce_System\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:02:18.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form6.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_E_Commerce_System\\Form6.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\WindowsFormsApp_E_Commerce_System\\WindowsFormsApp_E_Commerce_System\\Form6.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_E_Commerce_System\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:46:11.518Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
